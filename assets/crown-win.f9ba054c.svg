@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-45.7%" y="-45.7%" width="191.3%" height="191.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="popup_win" transform="translate(-345.000000, -132.000000)" fill="#FFEC72">
+            <g id="Group-20" transform="translate(358.460870, 146.459574)">
+                <circle id="Oval" opacity="0.563174293" filter="url(#filter-1)" cx="25.5391304" cy="24.5404255" r="23"></circle>
+                <polygon id="Fill-1" points="26.2695652 41.706383 26.2695652 41.706383 6.79782609 41.706383 6.79782609 52.6212766 26.2695652 52.6212766 26.2695652 52.6212766 45.7413043 52.6212766 45.7413043 41.706383"></polygon>
+                <polygon id="Fill-2" points="26.2695652 2.84217094e-14 26.2695652 2.84217094e-14 26.2695652 2.84217094e-14 26.2695652 0.114893617 13.826087 22.1744681 -1.13686838e-13 8.61702128 6.10652174 33.7787234 25.6934783 33.7787234 26.2695652 33.7787234 26.8456522 33.7787234 46.4326087 33.7787234 52.5391304 8.61702128 38.5978261 22.1744681 26.2695652 0.114893617"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

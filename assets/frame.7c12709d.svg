@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 796 1498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>프레임</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.774476156%" x2="50%" y2="74.0061749%" id="linearGradient-1">
+            <stop stop-color="#5D3BA4" offset="0%"></stop>
+            <stop stop-color="#2A1A64" offset="63.8276734%"></stop>
+            <stop stop-color="#34207A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#432E7E" offset="0%"></stop>
+            <stop stop-color="#201448" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9960559%" y1="0%" x2="49.9960559%" y2="81.0103509%" id="linearGradient-3">
+            <stop stop-color="#814BE2" offset="0%"></stop>
+            <stop stop-color="#5432C1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mainpage_frame-&amp;-background" transform="translate(-990.000000, -274.000000)">
+            <g id="프레임" transform="translate(990.000000, 274.000000)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="60" width="14" height="1239"></rect>
+                <rect id="Rectangle-Copy-13" fill="url(#linearGradient-1)" x="782" y="60" width="14" height="1239"></rect>
+                <g id="Group-25">
+                    <path d="M48,0 L748,0 C774.509668,-4.86974701e-15 796,21.490332 796,48 L796,60 L796,60 L0,60 L0,48 C-3.24649801e-15,21.490332 21.490332,4.86974701e-15 48,0 Z" id="Rectangle" fill="#AD90ED"></path>
+                    <path d="M47,13 L749,13 C774.957383,13 796,34.0426168 796,60 L796,60 L796,60 L0,60 C-3.17886263e-15,34.0426168 21.0426168,13 47,13 Z" id="Rectangle-Copy-14" fill="#5C3BA4"></path>
+                </g>
+                <path d="M48,1298 L748,1298 C774.509668,1298 796,1319.49033 796,1346 L796,1498 L796,1498 L0,1498 L0,1346 C-3.24649801e-15,1319.49033 21.490332,1298 48,1298 Z" id="Rectangle-Copy-15" fill="url(#linearGradient-2)" transform="translate(398.000000, 1398.000000) rotate(-180.000000) translate(-398.000000, -1398.000000) "></path>
+                <path d="M47,1298 L749,1298 C774.957383,1298 796,1319.04262 796,1345 L796,1345 L796,1345 L0,1345 C-3.17886263e-15,1319.04262 21.0426168,1298 47,1298 Z" id="Rectangle-Copy-16" fill="#34207A" transform="translate(398.000000, 1321.500000) rotate(-180.000000) translate(-398.000000, -1321.500000) "></path>
+                <rect id="Rectangle" fill="#201548" x="14" y="60" width="768" height="1238"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="14" y="60" width="768" height="1238"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

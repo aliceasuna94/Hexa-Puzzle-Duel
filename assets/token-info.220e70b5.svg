@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="67px" viewBox="0 0 52 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 33</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mainpage_history_my-history" transform="translate(-241.000000, -499.000000)">
+            <g id="Group-33" transform="translate(241.000000, 499.000000)">
+                <g id="Group-32">
+                    <g id="Group-31">
+                        <g id="Group-16">
+                            <rect id="Rectangle" fill="#5F3CD8" x="0" y="0" width="25" height="42"></rect>
+                            <polygon id="Star" fill="#FFEC72" points="12.5 25.75 7.50382536 28.3766445 8.45800981 22.8133222 4.41601961 18.8733555 10.0019127 18.0616778 12.5 13 14.9980873 18.0616778 20.5839804 18.8733555 16.5419902 22.8133222 17.4961746 28.3766445"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-30" transform="translate(0.000000, 46.000000)">
+                        <g id="Group-15">
+                            <rect id="Rectangle-Copy-2" fill="#5F3CD8" x="0" y="0" width="25" height="21"></rect>
+                            <path d="M14,5 L14,9 L18,9 L18,12 L14,12 L14,16 L11,16 L11,12 L7,12 L7,9 L11,9 L11,5 L14,5 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="eos" transform="translate(34.000000, 1.000000)">
+                    <g id="Group">
+                        <circle id="Oval-Copy-26" fill="#FFEC72" cx="9" cy="9" r="9"></circle>
+                        <g id="eos2" transform="translate(2.000000, 1.000000)" fill-rule="nonzero">
+                            <polygon id="Shape-path" fill="#FFFFFF" points="7 -3.55271368e-15 2.08695652 5.16666667 0 12.7666667 7 16 14 12.7666667 11.9130435 5.13333333"></polygon>
+                            <path d="M7,-3.55271368e-15 L2.08695652,5.16666667 L0,12.7666667 L7,16 L14,12.7666667 L11.9130435,5.13333333 L7,-3.55271368e-15 Z M4,5.44473684 L7,2 L10,5.44473684 L7,13 L4,5.44473684 Z M10.779661,7 L12,11.9714286 L8,14 L10.779661,7 Z M2,11.9714286 L3.22033898,7 L6,14 L2,11.9714286 Z" id="Shape" fill="#433D1D"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="slt" transform="translate(34.000000, 24.000000)">
+                    <g id="Group">
+                        <circle id="Oval-Copy-26" fill="#A86DFF" cx="9" cy="9" r="9"></circle>
+                        <polygon id="Combined-Shape-Copy-4" fill="#FFFFFF" points="9 1 16 5 16 13 9 17 2 13 2 5"></polygon>
+                        <path d="M9,1 L16,5 L16,13 L9,17 L2,13 L2,5 L9,1 Z M8.99924421,2.56962025 L3.37266193,5.78481013 L3.37190614,7.27848101 L9.77824477,10.9746835 L7.98521154,11.9873418 L3.37190614,9.35443038 L3.37266193,12.2151899 L8.99924421,15.4303797 L14.6258265,12.2151899 L14.6256619,10.7646203 L8.23187993,7.07594937 L10.0249132,6.06329114 L14.6256619,8.68862025 L14.6258265,5.78481013 L8.99924421,2.56962025 Z" id="Combined-Shape-Copy-4" fill="#3D285E"></path>
+                    </g>
+                </g>
+                <g id="slt" transform="translate(34.000000, 47.000000)">
+                    <g id="Group">
+                        <circle id="Oval-Copy-26" fill="#A86DFF" cx="9" cy="9" r="9"></circle>
+                        <polygon id="Combined-Shape-Copy-4" fill="#FFFFFF" points="9 1 16 5 16 13 9 17 2 13 2 5"></polygon>
+                        <path d="M9,1 L16,5 L16,13 L9,17 L2,13 L2,5 L9,1 Z M8.99924421,2.56962025 L3.37266193,5.78481013 L3.37190614,7.27848101 L9.77824477,10.9746835 L7.98521154,11.9873418 L3.37190614,9.35443038 L3.37266193,12.2151899 L8.99924421,15.4303797 L14.6258265,12.2151899 L14.6256619,10.7646203 L8.23187993,7.07594937 L10.0249132,6.06329114 L14.6256619,8.68862025 L14.6258265,5.78481013 L8.99924421,2.56962025 Z" id="Combined-Shape-Copy-4" fill="#3D285E"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

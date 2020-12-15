@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="711" height="105" viewBox="0 0 711 105">
+    <defs>
+        <linearGradient id="a" x1="51.029%" x2="48.965%" y1="1.267%" y2="99.022%">
+            <stop offset="0%" stop-color="#D9A5FF"/>
+            <stop offset="52.043%" stop-color="#5C38CA"/>
+            <stop offset="100%" stop-color="#C67AFF"/>
+        </linearGradient>
+        <linearGradient id="b" x1="100%" x2="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#34227B"/>
+            <stop offset="100%" stop-color="#1D1452"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#34227B" stroke="url(#a)" stroke-width="1.5" d="M303 365.562c0 5.032 2.331 9.688 6.126 12.237l39.089 26.247c3.88 2.605 8.69 2.605 12.57 0l39.089-26.247c3.795-2.549 6.126-7.205 6.126-12.237v-628.124c0-5.032-2.331-9.688-6.126-12.237l-39.089-26.247c-3.88-2.605-8.69-2.605-12.57 0l-39.089 26.247c-3.795 2.549-6.126 7.205-6.126 12.237v628.124z" transform="rotate(-90 355.5 51.5)"/>
+        <path fill="url(#b)" d="M648 57c-.266.569-.585 1.125-.957 1.663l-26.471 38.33c-1.565 2.265-3.917 3.999-6.663 5.008L108 102l19.794-36.298c1.862-3.414 2.733-4.528 3.896-5.61a10.656 10.656 0 0 1 3.97-2.358c1.458-.486 2.81-.718 6.41-.733z" opacity=".6" transform="translate(1 1)"/>
+    </g>
+</svg>

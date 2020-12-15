@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="45" viewBox="0 0 44 45">
+    <defs>
+        <filter id="a" width="250%" height="242.9%" x="-75%" y="-71.4%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5"/>
+        </filter>
+    </defs>
+    <g fill="#FFEC72" fill-rule="evenodd" transform="translate(12 11)">
+        <path d="M10.207 15.66H2.613v4.078H17.78V15.66zM10.207 0l-.011.019L10.185 0v.038L5.383 8.316 0 3.233l2.348 9.426H9.98l.215-.008.216.008h7.632l2.349-9.426-5.383 5.083L10.207.038z"/>
+        <ellipse cx="10" cy="11.5" filter="url(#a)" opacity=".563" rx="10" ry="10.5"/>
+    </g>
+</svg>

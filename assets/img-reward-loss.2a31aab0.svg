@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="26px" viewBox="0 0 65 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="popup_loss" transform="translate(-316.000000, -449.000000)">
+            <g id="Group-15" transform="translate(316.000000, 449.000000)">
+                <g id="Group-13">
+                    <rect id="Rectangle-Copy-2" fill="#5F3CD8" x="0" y="-2.66453526e-14" width="30.875" height="25.7864078"></rect>
+                    <path d="M17.7897727,6 L17.789,10.981 L22.8125,10.9814651 L22.8125,14.717564 L17.789,14.717 L17.7897727,19.6990291 L14.0227273,19.6990291 L14.022,14.717 L9,14.717564 L9,10.9814651 L14.022,10.981 L14.0227273,6 L17.7897727,6 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+                <g id="slt" transform="translate(42.000000, 1.000000)">
+                    <g id="Group">
+                        <circle id="Oval-Copy-26" fill="#A86DFF" cx="11.5" cy="11.5" r="11.5"></circle>
+                        <polygon id="Combined-Shape-Copy-4" fill="#FFFFFF" points="11.5 1.27777778 20.4444444 6.38888889 20.4444444 16.6111111 11.5 21.7222222 2.55555556 16.6111111 2.55555556 6.38888889"></polygon>
+                        <path d="M11.5,1.27777778 L20.4444444,6.38888889 L20.4444444,16.6111111 L11.5,21.7222222 L2.55555556,16.6111111 L2.55555556,6.38888889 L11.5,1.27777778 Z M11.4990343,3.28340366 L4.30951247,7.39170183 L4.30854674,9.30028129 L12.4944239,14.0232068 L10.2033259,15.3171589 L4.30854674,11.9528833 L4.30951247,15.6082982 L11.4990343,19.7165963 L18.6885561,15.6082982 L18.6885125,13.7554037 L10.5185132,9.04149086 L12.8096113,7.74753868 L18.6885125,11.1024037 L18.6885561,7.39170183 L11.4990343,3.28340366 Z" id="Combined-Shape-Copy-4" fill="#3D285E"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="616px" height="162px" viewBox="0 0 616 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>star-deco-win</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9647C9" offset="0%"></stop>
+            <stop stop-color="#400F70" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.9800442%" y1="13.7434899%" x2="79.0322094%" y2="88.8514554%" id="linearGradient-2">
+            <stop stop-color="#FFEC72" offset="0%"></stop>
+            <stop stop-color="#944BFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#9647C9" offset="0%"></stop>
+            <stop stop-color="#400F70" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6587135%" y1="13.4882485%" x2="78.4530414%" y2="89.1249649%" id="linearGradient-4">
+            <stop stop-color="#FFEC72" offset="0%"></stop>
+            <stop stop-color="#944BFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="popup_win" transform="translate(-76.000000, -479.000000)">
+            <g id="star-deco-win" transform="translate(64.000000, 475.000000)">
+                <g id="Group-11">
+                    <g id="Group-24">
+                        <g id="Group-25">
+                            <g id="Group-9" transform="translate(401.000000, 0.000000)">
+                                <g id="Group-9-Copy" transform="translate(119.098532, 120.815507) scale(-1, 1) rotate(-15.000000) translate(-119.098532, -120.815507) translate(14.098532, 53.315507)">
+                                    <g id="Group">
+                                        <polygon id="Rectangle" fill="url(#linearGradient-1)" points="50.888495 3.79429821e-12 196.335568 84.5171848 195.072564 134.020107 20.9871769 91.7615149"></polygon>
+                                        <polygon id="Path-2" fill="#7C33C5" points="99.2812076 35.1100593 209.797484 98.1418068 198.101641 126.775777 80.8273471 91.7615149 61.1931938 51.314005"></polygon>
+                                        <polygon id="Star" fill="url(#linearGradient-2)" points="50.888495 80.7228725 20.9769881 91.7358141 22.244557 59.9847025 2.49066023 35.039963 33.1855677 26.4296384 50.888495 0 68.5914223 26.4296384 99.2863298 35.039963 79.532433 59.9847025 80.8000019 91.7358141"></polygon>
+                                    </g>
+                                </g>
+                                <g id="Group-9-Copy-2" transform="translate(112.969628, 52.376546) scale(-1, 1) rotate(6.000000) translate(-112.969628, -52.376546) translate(43.969628, 7.376546)">
+                                    <g id="Group" transform="translate(0.042875, 0.356887)">
+                                        <g id="Group-18" opacity="0.800000012" transform="translate(13.572599, 0.000000)">
+                                            <polygon id="Rectangle" fill="url(#linearGradient-3)" points="19.4714726 3.63797881e-12 113.916465 55.6311456 113.096343 88.2151023 0.0552705146 60.3995295"></polygon>
+                                            <polygon id="Path-2" fill="#7C33C5" points="50.8949264 23.1102447 122.657862 64.5991837 115.063252 83.4467184 38.9120472 60.3995295 26.1627533 33.7760527"></polygon>
+                                        </g>
+                                        <polygon id="Star" fill="url(#linearGradient-4)" points="33.0440719 54.0735046 13.6212537 60.3826127 13.5594391 39.7737376 1.61729199 23.0641057 21.0019066 16.6362285 33.0440719 0 45.0862372 16.6362285 64.4708517 23.0641057 52.5287046 39.7737376 52.46689 60.3826127"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-9-Copy-4" transform="translate(119.993219, 107.000000) scale(-1, 1) translate(-119.993219, -107.000000) translate(0.993219, 0.000000)">
+                                <g id="Group-9-Copy" transform="translate(119.098532, 120.815507) scale(-1, 1) rotate(-15.000000) translate(-119.098532, -120.815507) translate(14.098532, 53.315507)">
+                                    <g id="Group">
+                                        <polygon id="Rectangle" fill="url(#linearGradient-1)" points="50.888495 3.79429821e-12 196.335568 84.5171848 195.072564 134.020107 20.9871769 91.7615149"></polygon>
+                                        <polygon id="Path-2" fill="#7C33C5" points="99.2812076 35.1100593 209.797484 98.1418068 198.101641 126.775777 80.8273471 91.7615149 61.1931938 51.314005"></polygon>
+                                        <polygon id="Star" fill="url(#linearGradient-2)" points="50.888495 80.7228725 20.9769881 91.7358141 22.244557 59.9847025 2.49066023 35.039963 33.1855677 26.4296384 50.888495 0 68.5914223 26.4296384 99.2863298 35.039963 79.532433 59.9847025 80.8000019 91.7358141"></polygon>
+                                    </g>
+                                </g>
+                                <g id="Group-9-Copy-2" transform="translate(112.969628, 52.376546) scale(-1, 1) rotate(6.000000) translate(-112.969628, -52.376546) translate(43.969628, 7.376546)">
+                                    <g id="Group" transform="translate(0.042875, 0.356887)">
+                                        <polygon id="Rectangle" fill="url(#linearGradient-3)" points="33.0440719 3.79429821e-12 127.489064 55.6311456 126.668942 88.2151023 13.6278698 60.3995295"></polygon>
+                                        <polygon id="Path-2" fill="#7C33C5" points="64.4675257 23.1102447 136.230461 64.5991837 128.635851 83.4467184 52.4846464 60.3995295 39.7353526 33.7760527"></polygon>
+                                        <polygon id="Star" fill="url(#linearGradient-4)" points="33.0440719 54.0735046 13.6212537 60.3826127 13.5594391 39.7737376 1.61729199 23.0641057 21.0019066 16.6362285 33.0440719 0 45.0862372 16.6362285 64.4708517 23.0641057 52.5287046 39.7737376 52.46689 60.3826127"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
